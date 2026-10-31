@@ -1,16 +1,25 @@
-## Hi there 👋
+# Michael
 
-<!--
-**anonyemichael/anonyemichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Building useful products with code
 
-Here are some ideas to get you started:
+I design and build software that solves real problems — from early concepts and internal tools to polished, production-ready applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- Full-stack web development
+- AI-powered workflows and automation
+- Product-driven engineering
+- Scalable systems and developer tooling
+
+## Tech Stack
+TypeScript • JavaScript • React • Next.js • Node.js • Python • APIs • Databases • Cloud Infrastructure • Software Architecture
+
+I care about building software that is useful, efficient, and thoughtfully engineered. I enjoy turning ideas into reliable systems that work in the real world.
+
+## What I Build
+- Full-stack web apps
+- AI-powered workflows
+- Internal tools and automation
+- Product-focused engineering
+- Scalable solutions with clean architecture
+
+> Building practical software with real-world impact.
